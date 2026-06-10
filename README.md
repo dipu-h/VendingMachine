@@ -1,2 +1,3 @@
 # VendMachine 
-Aurthor : ディプ＿ハビバラハマン
+Aurthor : ディプ＿ハビバラハマン　
+使えた言語：C
