@@ -1,1 +1,2 @@
-# VendMachine </br> Aurthor : ディプ＿ハビバラハマン
+# VendMachine 
+Aurthor : ディプ＿ハビバラハマン
